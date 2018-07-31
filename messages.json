@@ -1,0 +1,247 @@
+[
+    {
+        "identifier": "5b588269c0fa8016e7379191",
+        "room": "coala/coala/offtopic",
+        "sent_at": "2018-07-25 14:00:09.456000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": " :laughing: . But I think the actual reason Microsoft bought github was to increase their user's coverage. I mean if we look into it, Microsoft has no profit per-se for this acquisition. "
+    },
+    {
+        "identifier": "5b5f1dc4d4527523f640004c",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:16:36.986000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "The output I get is `No module named coala`"
+    },
+    {
+        "identifier": "5b5ecde1f52b276ced503766",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 08:35:45.537000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@jayvdb Can i please be assigned the issue  https://github.com/coala/coala/issues/5667"
+    },
+    {
+        "identifier": "5ad3cc343fe1be3704cac29b",
+        "room": "coala/cobot-test",
+        "sent_at": "2018-04-15 22:03:32.485000+00:00",
+        "sent_by": "EverWinter23",
+        "text": "corobo nm"
+    },
+    {
+        "identifier": "5abbf14427c509a774b3948f",
+        "room": "coala/coala/offtopic",
+        "sent_at": "2018-03-28 19:47:16.309000+00:00",
+        "sent_by": "manu-chroma",
+        "text": "added "
+    },
+    {
+        "identifier": "5abc879727c509a774b5e106",
+        "room": "coala/community",
+        "sent_at": "2018-03-29 06:28:39.176000+00:00",
+        "sent_by": "riouwa",
+        "text": "@hemangsk on: https://github.com/coala/landing-frontend/issues/188 why do we need to remove the drop shadow?"
+    },
+    {
+        "identifier": "5b5f36543cc39566073273ac",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 16:01:24.986000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Thank you! I did google the error message , was still unclear about it though. \n1)If I am not wrong, We want coala to be invoked as a script from the terminal right? 2)But Why do we get different error messages for coala 0.11 and coala 0.12.0.dev."
+    },
+    {
+        "identifier": "5b5f1ee9448122584442c110",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:21:29.787000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "I did activate my virtual environment."
+    },
+    {
+        "identifier": "5b5f3948bf75446606716a46",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 16:14:00.181000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Or did i make a mistake in understanding the issue?"
+    },
+    {
+        "identifier": "5ad20fffdf3e0fb547d8e4e9",
+        "room": "coala/coala-bears",
+        "sent_at": "2018-04-14 14:28:15.553000+00:00",
+        "sent_by": "harshhx17",
+        "text": "@jayvdb  @alphadose  \nI need some help with https://github.com/coala/coala-bears/pull/2312\nCan you please give me some insight on how I should proceed now...\nI am sort of stuck"
+    },
+    {
+        "identifier": "5ae977f36f9af87e0437a08d",
+        "room": "coala/cobot-test",
+        "sent_at": "2018-05-02 08:33:55.762000+00:00",
+        "sent_by": "tallicamike",
+        "text": "Hello World"
+    },
+    {
+        "identifier": "5b5f24be20d248394f670de8",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:46:22.282000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "> @jayvdb Can you give me some pointers to solve the issue https://github.com/coala/coala/issues/5667. What actually needs to be done in the issue. Am I supposed to enable coala to be called as a module from the terminal. But if that's the case, I am confused. Isn't coala a package? How can we call it as a module? Please correct me if i am wrong."
+    },
+    {
+        "identifier": "5abbd596e3d0b1ff2c79ad95",
+        "room": "coala/coala/offtopic",
+        "sent_at": "2018-03-28 17:49:10.134000+00:00",
+        "sent_by": "manu-chroma",
+        "text": "lol I don't think so. It's deployed on a free instance of heroku "
+    },
+    {
+        "identifier": "5b5f3928cb4d5b036ca8a252",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 16:13:28.808000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "So I need to check it with `python3.7 -m coala`? Can you please tell me how does it make a difference. I mean I get the same error when i execute it with `python3 -m coala`."
+    },
+    {
+        "identifier": "5abbd5ae270d7d37086bd9c9",
+        "room": "coala/coala/offtopic",
+        "sent_at": "2018-03-28 17:49:34.062000+00:00",
+        "sent_by": "manu-chroma",
+        "text": "so shouldn't go down, but there might be latency :D"
+    },
+    {
+        "identifier": "5b5f2ebb4481225844432cf2",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 15:28:59.262000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@sjha2000  Please run coala with appropriate bears on your changed  file before committing it. "
+    },
+    {
+        "identifier": "5ad2205e109bb04332c141db",
+        "room": "coala/coala-bears",
+        "sent_at": "2018-04-14 15:38:06.183000+00:00",
+        "sent_by": "harshhx17",
+        "text": "thanks @alphadose "
+    },
+    {
+        "identifier": "5b5f24bfd4527523f6403008",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:46:23.758000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "I misunderstood the `-m` tag. Apparently whenever we use this tag it imports module or a package and run it as a script. Sorry for that.\nBut I still don't understand why we get different errors for coala 0.11.0 and the coala 0.12.0.dev"
+    },
+    {
+        "identifier": "5b5f1f9ed4527523f6400bf8",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:24:30.337000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "I have two virtual enironment, One which has the actual deploy-able coala which gives me the output `0.11.0` and the another virtual environment which has the development coala which gives the output as `0.12.0.dev99999999999999`\n"
+    },
+    {
+        "identifier": "5b5f1deb33154658457c973c",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:17:15.231000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Why doesn't the 0.12.0.dev999 report that the coala is a package."
+    },
+    {
+        "identifier": "5afc5f14e1cf621dba24b3ca",
+        "room": "coala/coala/gsoc",
+        "sent_at": "2018-05-16 16:40:52.057000+00:00",
+        "sent_by": "rohanrk",
+        "text": "This is super old and there isn\u2019t a chatroom for this repo, but my tests in https://github.com/coala/gci-leaders/pull/147 are failing because they\u2019re searching for some json file ```../out/pre2017.json```"
+    },
+    {
+        "identifier": "5b5f1dfa448122584442b917",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:17:30.448000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Can Someone please help me with this."
+    },
+    {
+        "identifier": "5b5f27d720d248394f6720da",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:59:35.003000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@sjha2000  Reviewed your commit. Please check :)"
+    },
+    {
+        "identifier": "5ad3cc3a012ff2bf681e7c18",
+        "room": "coala/cobot-test",
+        "sent_at": "2018-04-15 22:03:38.848000+00:00",
+        "sent_by": "EverWinter23",
+        "text": "hello world"
+    },
+    {
+        "identifier": "5b5f20efbf7544660670d1b0",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:30:07.201000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@gutsytechster  Thanks for trying though :)"
+    },
+    {
+        "identifier": "5b5f32533cc3956607325821",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 15:44:19.251000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@jayvdb Can you give me some pointers to solve the issue https://github.com/coala/coala/issues/5667. Just a little hint."
+    },
+    {
+        "identifier": "5b5f1ecb95988830b08a63da",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:20:59.352000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Shouldn't the same error be reported on coala 0.12 since coala is a package rather than a single module?"
+    },
+    {
+        "identifier": "5b5f216c3cc395660731ee66",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:32:12.266000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@jayvdb Can you give me some pointers to solve the issue https://github.com/coala/coala/issues/5667. What actually needs to be done in the issue. Am I supposed to enable coala to be called as a module from the terminal. But if that's the case, I am confused. Isn't coala a package? How can we call it as a module? Please correct me if i am wrong."
+    },
+    {
+        "identifier": "5b5f373e33154658457d38b9",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 16:05:18.642000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "3) Is `python -m coala --bears bear_name --files file_name` actually necessay when \n    we can execute the same thing using only `coala --bears bear_name --files \n     file_name`"
+    },
+    {
+        "identifier": "5b5f2ed5c83d1230b137b479",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 15:29:25.233000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "This will solve most of the gitmate-bot errors"
+    },
+    {
+        "identifier": "5afc5f502df44c2d0631fa88",
+        "room": "coala/coala/gsoc",
+        "sent_at": "2018-05-16 16:41:52.827000+00:00",
+        "sent_by": "rohanrk",
+        "text": "Neat, that blocks my PR. I don\u2019t think I\u2019m able to apply that label. Thanks @jayvdb!"
+    },
+    {
+        "identifier": "5b5f1fde3cc395660731e44e",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:25:34.292000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "@gutsytechster I don't think that's the issue. Because if i hadn't activate my virtual env it would have given me the error stating that `coala is not found` or something like that."
+    },
+    {
+        "identifier": "5b5f1d9c12f1be71376723c2",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:15:56.970000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "I have been working on issue https://github.com/coala/coala/issues/5667. \nI need a little help regarding the coala module.\nWhen I use the command\n ` python -m coalib --bears TextLintBear --files README.rst` on coala 0.11.0 I get the output as `No module named coalib.__main__; 'coalib' is a package and cannot be directly executed`.\nBut When I use the same command on development version i.e 0.12.0.dev999.."
+    },
+    {
+        "identifier": "5ac0baa63fe1be3704ca577c",
+        "room": "coala/corobo",
+        "sent_at": "2018-04-01 10:55:34.224000+00:00",
+        "sent_by": "EverWinter23",
+        "text": "@jayvdb Why is the build failing https://semaphoreci.com/coala/corobo/branches/pull-request-500/builds/19 ?"
+    },
+    {
+        "identifier": "5b5f204d20d248394f66f0d4",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:27:25.263000+00:00",
+        "sent_by": "Naveenaidu",
+        "text": "Nope it still gives the same error."
+    }
+]
