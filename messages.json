@@ -243,5 +243,12 @@
         "sent_at": "2018-07-30 14:27:25.263000+00:00",
         "sent_by": "Naveenaidu",
         "text": "Nope it still gives the same error."
+    },
+    {
+        "identifier": "5b5f204d20d248394f66f0dd",
+        "room": "coala/coala",
+        "sent_at": "2018-07-30 14:27:25.263000+00:00",
+        "sent_by": "testuser",
+        "text": "Is this issue valid?"
     }
 ]

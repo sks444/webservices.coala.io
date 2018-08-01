@@ -11,6 +11,37 @@
         "contributions": 1
     },
     {
+        "bio": "",
+        "teams": [
+            "coala newcomers"
+        ],
+        "reviews": 0,
+        "issues": 0,
+        "name": "",
+        "login": "testuser",
+        "contributions": 1
+    },
+    {
+        "bio": "",
+        "teams": [
+            "coala newcomers"
+        ],
+        "reviews": 0,
+        "issues": 0,
+        "name": "",
+        "login": "testuser",
+        "contributions": 1
+    },
+    {
+        "bio": "",
+        "teams": [
+        ],
+        "reviews": 0,
+        "name": "",
+        "login": "testuser1",
+        "contributions": 1
+    },
+    {
         "bio": "Getting started.",
         "teams": [
             "coala newcomers"
