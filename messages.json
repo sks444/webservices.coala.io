@@ -250,26 +250,5 @@
         "sent_at": "2018-07-30 14:27:25.263000+00:00",
         "sent_by": "Naveenaidu",
         "text": "Is this issue valid?"
-    },
-    {
-        "identifier": "5b5f204d20d248394f67f0dd",
-        "room": "coala/coala",
-        "sent_at": "2016-03-30 14:27:25.263000+00:00",
-        "sent_by": "testuser",
-        "text": "How is this issue valid?"
-    },
-    {
-        "identifier": "5b5f204d20d248394f6f80dd",
-        "room": "coala/coala",
-        "sent_at": "2016-03-30 14:27:25.263000+00:00",
-        "sent_by": "testuser",
-        "text": "thank you."
-    },
-    {
-        "identifier": "5b5f204d20d248394f69f0dd",
-        "room": "coala/coala",
-        "sent_at": "2016-03-30 14:27:25.263000+00:00",
-        "sent_by": "testuser",
-        "text": "and since we are using plugin names to load and test the plugins, it will not create problems if plugin names and class names are uniform across the repo"
     }
 ]
